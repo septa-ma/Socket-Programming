@@ -9,7 +9,7 @@ server_object = socket.socket(family=socket.AF_INET, type=socket.SOCK_STREAM)
 
 # Connecting to the localhost
 ip_address = '127.0.0.1'
-port = 3200
+port = 23
 server_object.bind((ip_address, port))
 server_object.listen()
 
