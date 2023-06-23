@@ -9,3 +9,4 @@
 
 **resource:**
 - https://www.freecodecamp.org/news/socket-programming-in-python/
+- https://www.tutorialspoint.com/python/python_networking.htm
