@@ -36,7 +36,7 @@
 
 **A list of some important modules in Python Network/Internet programming.**
 
-| Protocol 	 |   Common function    |    Port No    |     Python module               |
+| Protocol 	 |   Common function    |    Port No    |      Python module              |
 |------------|----------------------|---------------|---------------------------------|
 | HTTP 	     |   Web pages 	        |    80 	    |     httplib, urllib, xmlrpclib  |
 | NNTP 	     |   Usenet news 	    |    119 	    |     nntplib                     |
