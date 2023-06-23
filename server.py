@@ -3,13 +3,14 @@
 import socket
 import random
 import string
+# import telnetlib
 
 # Creating a socket instance
 server_object = socket.socket(family=socket.AF_INET, type=socket.SOCK_STREAM)
 
 # Connecting to the localhost
 ip_address = '127.0.0.1'
-port = 23
+port = 3200
 server_object.bind((ip_address, port))
 server_object.listen()
 

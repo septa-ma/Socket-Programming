@@ -7,7 +7,7 @@ client_object = socket.socket(family=socket.AF_INET, type=socket.SOCK_STREAM)
 
 # target ip address and port
 ip_address = '127.0.0.1'
-port = 23
+port = 3200
 
 # instance requesting for connection to the specified address and port
 client_object.connect((ip_address,port))
